@@ -1,1 +1,1 @@
-# NFT-contract
+# NFT-minter
